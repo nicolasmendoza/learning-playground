@@ -1,4 +1,5 @@
-###Ruby
+##Ruby
+
 Interpreted, object-oriented, dinamically type .
 -----------------------------------------------
 **https://www.ruby-lang.org**
@@ -15,7 +16,7 @@ Interpreted, object-oriented, dinamically type .
 * "I would remove the thread and add actors or some other more advanced concurrency feature" - Matz.
 
 
-###Installation on Ubuntu.
+##Installation on Ubuntu.
 
 > sudo apt-get update
 
@@ -59,4 +60,7 @@ Enjoy it!
 
 **[]** *Nice and easy programming language.
 
+* My favorite libraries:
+
+- https://github.com/sparklemotion/nokogiri
 
